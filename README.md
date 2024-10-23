@@ -10,7 +10,7 @@ I started teaching myself web programming 2 years ago. It's my most accurate cho
 * ✉️  You can contact me at [documentmail.theanh@gmail.com](mailto:documentmail.theanh@gmail.com)
 * ⚡  I'm scared of A.I. but I'm still using them.
 
-### Skills
+### Skills and Tools
 
 
 <p align="left">
